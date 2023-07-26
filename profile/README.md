@@ -1,3 +1,5 @@
 # Welcome 👋
 
-Our organization specializes in the design and development of software solutions tailored for the education sector, with a focus on providing reliable and scalable services that deliver customizable and actionable data. We welcome partnerships and inquiries for estimates, and we invite you to <a href="mailto:muscarasoftware@gmail.com">reach out to us</a> for any inquiries or to simply introduce yourself.
+Empowering businesses with data-driven insights and software.
+
+We offer Website Design & Search Engine Optimization to increase your businesses digital presence, Software Consulting & Testing to increase your products reliability and scalability, and a Suite of Data Analysis Tools to improve processing of your large datasets.
